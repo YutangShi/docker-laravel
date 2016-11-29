@@ -1,6 +1,6 @@
 site:
   #build : .
-  image: yutamg/laravel:ubuntu
+  image: yutang/laravel:ubuntu
   ports :
    - "9001:80"
   volumes:
